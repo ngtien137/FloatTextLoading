@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <declare-styleable name="FloatTextLoading">
+       <attr name="ftl_loading_bar_height" format="dimension"/>
+       <attr name="ftl_background_color" format="color"/>
+
+       <attr name="ftl_progress_color" format="color"/>
+       <attr name="ftl_progress_item_spacing" format="dimension"/>
+       <attr name="ftl_progress_item_count" format="integer"/>
+
+       <attr name="ftl_border_color" format="color"/>
+       <attr name="ftl_border_size" format="dimension"/>
+       <attr name="ftl_border_corner" format="dimension"/>
+
+       <attr name="ftl_progress" format="integer"/>
+       <attr name="ftl_max" format="integer"/>
+
+       <attr name="ftl_progress_text_color" format="color"/>
+       <attr name="ftl_progress_text_size" format="dimension"/>
+       <attr name="ftl_progress_text_format" format="string"/>
+       <attr name="ftl_progress_text_bottom" format="dimension"/>
+
+       <attr name="ftl_progress_indicator_width" format="dimension"/>
+       <attr name="ftl_progress_indicator_height" format="dimension"/>
+       <attr name="ftl_progress_indicator_src" format="reference"/>
+       <attr name="ftl_progress_indicator_bottom" format="dimension"/>
+   </declare-styleable>
+</resources>
